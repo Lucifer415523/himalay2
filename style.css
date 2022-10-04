@@ -1,0 +1,59 @@
+.abc:hover{
+    background-color:red;
+}
+.xyz{
+    color: black;
+}
+.cdj{
+    color: white;
+    font-style: inherit;
+    }
+.asd{
+    color: tomato;
+}
+.fgh{
+    color: yellow;
+}
+.img{
+    opacity: 0.8;
+    width: 100%;
+    height: 600PX;
+}
+.image{
+    width: 20%;
+    height: 380px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  
+
+}
+.zxc{
+    color: rgb(122, 3, 13);
+}
+.sicons{
+    font-size: 40px;
+}
+.fa-facebook:hover,.fa-twitter:hover{
+    color: black;
+}
+.fab{
+    color: blueviolet;
+}
+#footer{
+    background-color: rgb(24, 17, 7, 0.89);
+    text-align: center;
+}
+.ftext{
+    color: antiquewhite;
+}
+.cardhv :hover{
+    background-color: brown;
+    
+}
+.gpd:hover{
+    background-color: crimson;
+}
+.ghp{
+    color: white;
+}
